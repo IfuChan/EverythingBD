@@ -1,0 +1,111 @@
+.container
+{
+    margin-top: 50px;
+}
+.newarrival
+{
+    background: yellow;
+    width: 50px;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+}
+.col-md-7 h2
+{
+    color: slategrey;
+}
+.stars
+{
+    height: 15px;
+}
+.price
+{
+    color: darkgrey;
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+input
+{
+    border: 1px solid #ccc;
+    font-weight: bold;
+    text-align: center;
+    height: 33px;
+    width: 30px;
+}
+.cart
+{
+    background: orange;
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+    border: gray;
+}
+.desc
+{
+    background: whitesmoke;
+    text-align: justify;
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.navibar{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+nav{
+    flex: 1;
+    text-align: right;
+}
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 25px;
+    font-size: 15px;
+}
+.anchor{
+    text-decoration: none;
+    color: #555;
+}
+.maincontainer{
+    max-width: 1500px;
+    margin: auto;
+}
+.siteFooter{
+  background: #000;
+  color: #8a8a8a;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.row1{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.divcent{
+    text-align: center;
+}
+.prev{
+    background: rgb(238, 255, 0);
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+    border: gray;
+}
+.nxt{
+    background: orange;
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+    border: gray;
+}
+.buttonHolderP{ 
+    text-align: center; }
+  
+  
